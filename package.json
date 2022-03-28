@@ -1,0 +1,23 @@
+{
+  "name": "mini-vite",
+  "version": "1.0.0",
+  "description": "mini-vite",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/s-fire/mini-vite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/s-fire/mini-vite/issues"
+  },
+  "homepage": "https://github.com/s-fire/mini-vite#readme",
+  "dependencies": {
+    "koa": "^2.13.4"
+  }
+}
